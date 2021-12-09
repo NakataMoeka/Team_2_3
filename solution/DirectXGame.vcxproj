@@ -147,6 +147,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ObjCommon.cpp" />
     <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="Time.cpp" />
     <ClCompile Include="WinAPI.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -160,6 +161,7 @@
     <ClInclude Include="Input.h" />
     <ClInclude Include="ObjCommon.h" />
     <ClInclude Include="Sprite.h" />
+    <ClInclude Include="Time.h" />
     <ClInclude Include="WinAPI.h" />
   </ItemGroup>
   <ItemGroup>
